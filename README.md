@@ -1,7 +1,6 @@
-# csc648 Repository
+# SFSU QUAD
 
-## Team 08 webpage: 
-### SFSU QUAD: http://sfsuquad.com/
+### SFSU QUAD: http://sfsuquad.com/ (depreciated) 
 
 **SFSU QUAD** is a Buy/Sell Website designed for SFSU students to safely purchase and sell their books, electronics, and services; the service was intended to be similar to that of ebay or craigslist yet required users to have SFSU emails to access buying/selling functionality. 
 
